@@ -1,0 +1,9 @@
+*.key
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# Ruff (linter cache; safe to delete)
+.ruff_cache/
